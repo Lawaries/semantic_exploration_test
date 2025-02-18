@@ -28,7 +28,16 @@ roslaunch semantic_exploration run_semantic_exploration.launch # planning
 </p>
 
 ## Citation
-Preprint coming soon.
+```
+@inproceedings{zhang2024active,
+  title={Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration},
+  author={Zhang, Rongge and Bong, Haechan Mark and Beltrame, Giovanni},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={13787--13794},
+  year={2024},
+  organization={IEEE}
+}
+```
 ## Acknowledgments
 - [SSMI](https://ieeexplore.ieee.org/abstract/document/10057106)
 - [Explorb](https://ieeexplore.ieee.org/abstract/document/10003990)
