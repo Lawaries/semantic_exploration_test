@@ -135,6 +135,8 @@ python3 --version
 
 ---
 
+## 3. **Clone Required ROS Packages**
+
 ```
 **step-by-step guide** 
 ---
@@ -157,8 +159,6 @@ cd ~/WS_SE/src
 *You can replace `WS_SE` with any workspace name you prefer.*
 
 ---
-
-## 3. **Clone Required ROS Packages**
 
 ```bash
 git clone <your_repository_url>
