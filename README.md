@@ -174,7 +174,7 @@ cd ~/WS_SE/src
 ```bash
 git clone <your_repository_url>
 # Example:
-git clone https://github.com/BohemianRhapsodyz/semantic_exploration.git
+git clone [https://github.com/BohemianRhapsodyz/semantic_exploration.git](https://github.com/Lawaries/semantic_exploration_test.git)
 # Clone any other required repositories here as well
 ```
 
