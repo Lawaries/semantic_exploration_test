@@ -11,10 +11,6 @@
 - Eigen
 - OpenCV
 - Python3
-
-
-Of course! Here’s a **Markdown-formatted guide** to **install and check** the detected dependencies for your ROS project.
-
 ---
 
 # Dependency Installation and Checking Guide
@@ -139,15 +135,8 @@ python3 --version
 
 ---
 
-**If any check fails or you see an error, please copy the output and I will help you troubleshoot further!**
-
-
-
-
 ```
-Certainly! Here’s a **step-by-step guide** to setting up a ROS workspace, installing dependencies, cloning your repositories, and running the project.
-The instructions are in **English** and use **Markdown** formatting for clarity.
-
+**step-by-step guide** 
 ---
 
 # ROS Workspace Setup and Project Execution Guide
