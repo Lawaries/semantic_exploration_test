@@ -253,14 +253,9 @@ roslaunch semantic_exploration run_semantic_exploration.launch
 | Source environment                   | `source ~/WS_SE/install/setup.bash`                         |
 | Launch each node (separate terminal) | See above examples                                          |
 
-```
+---
 
-<p align="center">
-  <img src="docs/explore.gif" width="48%" />
-  <img src="docs/mapping.gif" width="48%" />
-</p>
-
-## Citation
+## **Citation**
 ```
 @inproceedings{zhang2024active,
   title={Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration},
@@ -270,18 +265,23 @@ roslaunch semantic_exploration run_semantic_exploration.launch
   year={2024},
   organization={IEEE}
 }
+
 ```
-## Acknowledgments
+9. **Acknowledgments**
+
 - [SSMI](https://ieeexplore.ieee.org/abstract/document/10057106)
 - [Explorb](https://ieeexplore.ieee.org/abstract/document/10003990)
 - [ORB-SLAM](https://ieeexplore.ieee.org/document/7946260)
 - [Semantic mapping](https://github.com/floatlazer/semantic_slam)
-## License
+```
+
+**License**
+
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-## Contributors
+## **Contributors**
 <a href="https://github.com/BohemianRhapsodyz/semantic_exploration/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=BohemianRhapsodyz/semantic_exploration" />
 </a>  
 
-****
 ![Logo](https://mistlab.ca/images/mistlogo.png)
+```
